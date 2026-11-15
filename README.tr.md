@@ -1,3 +1,5 @@
+<img src="docs/logo.png" alt="" width="96" align="left">
+
 # ARB Studio
 
 [English](README.md)
