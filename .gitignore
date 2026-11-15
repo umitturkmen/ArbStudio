@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# PyInstaller çıktıları (arbstudio.spec sürüm kontrolünde kalır)
+build/
+dist/
+
+# ARB Studio kaydetmeden önce yedek bırakır
+.arbstudio-backups/
+*.arb.bak
+*.arb.tmp
+
+# Dışa aktarma çıktıları
+*.arbmap.json
